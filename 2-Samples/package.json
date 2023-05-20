@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "rescript",
+    "start": "rescript build -w"
+  },
+  "dependencies": {
+    "rescript": "^10.1.4"
+  }
+}
